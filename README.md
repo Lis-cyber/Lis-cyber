@@ -1,9 +1,7 @@
-<h3 align="center"><a href="#"><img width="20%" height="auto" src="https://developeravocados.net/img/avatar-icon.png" height="10px"/></a></h3>
+<h3 align="center"><a href="#"><img width="20%" height="auto" src="https://github.com/Lis-cyber/lis-cyber/blob/main/images/foto.jpg" height="10px"/></a></h3>
 
 
 <h3 align="center">Hey there, I'm Lis</a> - aka Lis-Cyber <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
-
-### Hi there 👋 i´m Lis!
 
 ## 📖 About me
 
@@ -11,7 +9,7 @@
 * 🌱 I’m currently learning Java
 * 🔭 I’m currently open to Work
 * 🎨 I'm a self-taught UI designer
-* 📱 I make apps for Android and iOS
+* 📱  I make apps for Android and iOS
 * 🎓 I'm a Civil Constructor sence 2012
 * 🌐 You can see some of my projects here 
 <!--
