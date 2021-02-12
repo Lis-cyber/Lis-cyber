@@ -3,7 +3,7 @@
 <svg fill="none" viewBox="0 0 0 0" width="420" height="420">
   <foreignObject width="100%" height="100%">
     <div>
-      <style>
+      <style class="style">
         @keyframes bounce {
           0%   { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
           3%   { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
@@ -23,7 +23,7 @@
           animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
         }
       </style>
-      <h1><a><img src="./images/avatar-icon.png"></a></h1>
+      <h1 style="style"><img src="./images/avatar-icon.png"></h1>
     </div>
   </foreignObject>
 </svg>
