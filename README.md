@@ -1,7 +1,7 @@
 <h3 align="center"><a href="./index.html"></a></h3>
 
 <svg fill="none" viewBox="0 0 0 0" width="420" height="420">
-  <foreignObject width="100%" height="100%">
+  <script width="100%" height="100%">
     <div>
       <style class="style">
         @keyframes bounce {
@@ -25,7 +25,7 @@
       </style>
       <h1 style="style"><img src="./images/avatar-icon.png"></h1>
     </div>
-  </foreignObject>
+  </script>
 </svg>
 
 <h3 align="center">Hey there, I'm Lis - aka Lis-Cyber <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
