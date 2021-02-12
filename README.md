@@ -3,15 +3,24 @@
 <svg fill="none" viewBox="0 0 0 0" width="420" height="420">
   <foreignObject width="100%" height="100%">
     <div>
-      <style>
+      <h1  @keyframes bounce {
+          0%   { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
+          3%   { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
+          5%   { transform: scale(1.1,  .9)  translateY(5px)   skew(0deg,  0deg); }
+          12%  { transform: scale(.9,   1.1) translateY(-70px) skew(0deg, 0deg); }
+          13%  { transform: scale(.9,   1.1) translateY(-70px) skew(5deg, 5deg); }
+          20%  { transform: scale(1.05, .95) translateY(0)     skew(0deg,  0deg); }
+          22%  { transform: scale(1,    1)   translateY(-7px)  skew(0deg,  0deg); }
+          27%  { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
+          100% { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
+        }
         h1 {
           width: 300px;
           line-height: 0px;
           padding-top: 60px;
           text-align: center;
-        }
-      </style>
-      <h1><img src="./images/avatar-icon.png"></h1>
+          animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
+        }   ><img src="./images/avatar-icon.png"></h1>
     </div>
   </foreignObject>
 </svg>
