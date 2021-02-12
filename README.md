@@ -1,6 +1,5 @@
 <h3 align="center"><a href="./index.html"></a></h3>
 
-<svg width="400" height="400" xmlns="./index.html">
 <svg fill="none" viewBox="0 0 0 0" width="420" height="420" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
@@ -9,8 +8,8 @@
           0%   { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
           3%   { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
           5%   { transform: scale(1.1,  .9)  translateY(5px)   skew(0deg,  0deg); }
-          12%  { transform: scale(.9,   1.1) translateY(-50px) skew(0deg, 0deg); }
-          13%  { transform: scale(.9,   1.1) translateY(-50px) skew(5deg, 5deg); }
+          12%  { transform: scale(.9,   1.1) translateY(-70px) skew(0deg, 0deg); }
+          13%  { transform: scale(.9,   1.1) translateY(-70px) skew(5deg, 5deg); }
           20%  { transform: scale(1.05, .95) translateY(0)     skew(0deg,  0deg); }
           22%  { transform: scale(1,    1)   translateY(-7px)  skew(0deg,  0deg); }
           27%  { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
