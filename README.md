@@ -28,7 +28,7 @@
   </foreignObject>
 </svg> -->
 
-<h1><img src="./images/avatar-icon.png"></h1>
+<h1><img width="100%" src="./images/dino.png"></h1>
 <h3 align="center">Hey there, I'm Lis! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 ### 📖 About me
@@ -46,8 +46,8 @@
 ### Connect with me:
 
 <span>
-  <img alt="LinkedIn" width="22px" href="https://www.linkedin.com/in/lisbeth-jardim-fullstack-developer/" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  <a href="mailto:lisjardim6@gmail.com" ><img width="6%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">
+  <img alt="LinkedIn" width="25px" href="https://www.linkedin.com/in/lisbeth-jardim-fullstack-developer/" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <a href="mailto:lisjardim6@gmail.com"><img width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">
 </span>
 
 
