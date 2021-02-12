@@ -1,8 +1,8 @@
 <h3 align="center"><a href="./index.html"></a></h3>
 
-<svg fill="none" viewBox="0 0 0 0" width="420" height="420" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 0 0" width="420" height="420">
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
+    <div>
       <style>
         @keyframes bounce {
           0%   { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
