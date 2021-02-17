@@ -1,5 +1,7 @@
 <h1><img width="100%" src="./images/dino.gif"></h1>
-<h1 align="center"><img width="35" src="https://media.giphy.com/media/MEFVcuRIoVETUMYZEe/giphy.gif">Hey there, I'm Lis! <img width="50" src="https://media.giphy.com/media/3o7TKGAJ7CLp95cNI4/giphy.gif"></h1>
+<h1 align="center"><img width="35" src="https://media.giphy.com/media/MEFVcuRIoVETUMYZEe/giphy.gif">
+<img width="75%" src="./images/hey.png">
+<img width="50" src="https://media.giphy.com/media/3o7TKGAJ7CLp95cNI4/giphy.gif"></h1>
 
 
 ### 📖 About me
@@ -47,10 +49,11 @@
 ### 📫 Connect with me:
 
 <span>
-  <a href="https://www.linkedin.com/in/lisbeth-jardim-fullstack-developer/"><img alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  <a href="mailto:lisjardim6@gmail.com"><img width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">
+  <a href="https://www.linkedin.com/in/lisbeth-jardim-fullstack-developer/"><img alt="LinkedIn" width="55px" src="https://img.icons8.com/clouds/100/000000/linkedin.png" />
+  <a href="mailto:lisjardim6@gmail.com"><img width="55px" src="https://img.icons8.com/clouds/100/000000/gmail.png">
+    <a href="https://github.com/Lis-cyber"><img width="55px" src="https://img.icons8.com/clouds/100/000000/github.png">
 </span>
----
+
 
 
 <!--
