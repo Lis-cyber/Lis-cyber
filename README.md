@@ -1,6 +1,6 @@
 <h1><img width="100%" src="./images/dino.gif"></h1>
 <h1 align="center"><img width="35" src="https://media.giphy.com/media/MEFVcuRIoVETUMYZEe/giphy.gif">
-<img width="75%" src="./images/hey.png">
+<img width="250" src="./images/hey.png">
 <img width="50" src="https://media.giphy.com/media/3o7TKGAJ7CLp95cNI4/giphy.gif"></h1>
 
 
@@ -42,6 +42,7 @@
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
+<br />
 <br />
 <br />
 <br />
