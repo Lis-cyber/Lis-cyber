@@ -3,7 +3,6 @@
 <img width="250" src="./images/hey.png">
 <img width="50" src="https://media.giphy.com/media/3o7TKGAJ7CLp95cNI4/giphy.gif"></h1>
 
-
 ### 📖 About me
 
 - 💻 I'm a full stack web developer
@@ -41,7 +40,6 @@
 
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-
 <br />
 <br />
 <br />
@@ -50,12 +48,19 @@
 ### 📫 Connect with me:
 
 <span>
-  <a href="https://www.linkedin.com/in/lisbeth-jardim-fullstack-developer/"><img alt="LinkedIn" width="55px" src="https://img.icons8.com/clouds/100/000000/linkedin.png" />
-  <a href="mailto:lisjardim6@gmail.com"><img width="55px" src="https://img.icons8.com/clouds/100/000000/gmail.png">
-    <a href="https://github.com/Lis-cyber"><img width="55px" src="https://img.icons8.com/clouds/100/000000/github.png">
+  <a href="https://www.linkedin.com/in/lisbeth-jardim-fullstack-developer/"><img alt="LinkedIn" width="65px" src="https://img.icons8.com/clouds/100/000000/linkedin.png" />
+  <a href="mailto:lisjardim6@gmail.com"><img width="65px" src="https://img.icons8.com/clouds/100/000000/gmail.png">
+    <a href="https://github.com/Lis-cyber"><img width="65px" src="https://img.icons8.com/clouds/100/000000/github.png">
 </span>
 
+<br />
+<br />
 
+### 🌱 Time to play:
+
+- Try to guess the color
+
+  <h1><a href="https://color-game-lis.netlify.app/"><img alt="LinkedIn" width="200px" src="./images/colorgame.png" /> </h1>
 
 <!--
 **Lis-cyber/Lis-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
