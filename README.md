@@ -48,11 +48,13 @@
 ### 📫 Connect with me:
 
 <span>
-  <a href="https://www.linkedin.com/in/lisbeth-jardim-fullstack-developer/"><img alt="LinkedIn" width="65px" src="https://img.icons8.com/clouds/100/000000/linkedin.png" />
-  <a href="mailto:lisjardim6@gmail.com"><img width="65px" src="https://img.icons8.com/clouds/100/000000/gmail.png">
-    <a href="https://github.com/Lis-cyber"><img width="65px" src="https://img.icons8.com/clouds/100/000000/github.png">
+  <a href="https://www.linkedin.com/in/lisbeth-jardim-fullstack-developer/"><img alt="LinkedIn" width="65px" src="https://img.icons8.com/clouds/100/000000/linkedin.png" /></a>
+  <a href="mailto:lisjardim6@gmail.com"><img width="65px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
+  <a href="https://github.com/Lis-cyber"><img width="65px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 </span>
 
+
+<br />
 <br />
 <br />
 
@@ -60,7 +62,16 @@
 
 - Try to guess the color
 
-  <h1><a href="https://color-game-lis.netlify.app/"><img alt="LinkedIn" width="200px" src="./images/colorgame.png" /> </h1>
+
+<span>
+  <a href="https://color-game-lis.netlify.app/"><img alt="game" width="200px" src="./images/colorgame.png" /></a>
+</span>
+<br />
+<br />
+<br />
+
+### 😄 Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{lis-cyber}/count.svg)
 
 <!--
 **Lis-cyber/Lis-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -73,6 +84,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
